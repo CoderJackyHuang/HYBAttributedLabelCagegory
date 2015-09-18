@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/632840804/HYBAttributedLabelCagegory"
-  s.screenshots  = "https://github.com/632840804/HYBAttributedLabelCagegory/blob/master/screenshot.jpg"
+  #s.screenshots  = "https://github.com/632840804/HYBAttributedLabelCagegory/blob/master/screenshot.jpg"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "HYBAttributedLableCategory", "*.{h,m}"
+  s.source_files  = "HYBAttributedLabelCategory", "*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
