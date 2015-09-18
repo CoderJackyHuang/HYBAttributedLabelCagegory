@@ -25,9 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+                   An very useful category of UILabel, for we can easily set style stringw with HTML-LIKE label.
                    DESC
 
-  s.homepage     = "http://EXAMPLE/HYBAttributedLabelCategory"
+  s.homepage     = "https://github.com/632840804/HYBAttributedLabelCagegory"
   s.screenshots  = "https://github.com/632840804/HYBAttributedLabelCagegory/blob/master/screenshot.jpg"
 
 
