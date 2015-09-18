@@ -18,6 +18,10 @@ what properties of style.
 * `backgroundcolor=value`: Specify a background color with a value. The value can be red/blue/yellow... or #eee/#eeee/#eeeeee or 0x/0Xffffff, e.g. backgroundcolor=red, backgroundcolor=#fff, backgroundcolor=0xffffff.
 * `underline=value`: Specify underline style with a number between 0 and 9. For more information, please refer NSUnderlineStyle. The value should be in [0, 9]. e.g. underline=0, underline=1.
 
+##How to use
+```
+pod "HYBAttributedLabelCagegory", '~> 0.0.1'
+```
 
 ##screenshot
 ![image](https://github.com/632840804/HYBAttributedLabelCagegory/blob/master/screenshot.jpg)
