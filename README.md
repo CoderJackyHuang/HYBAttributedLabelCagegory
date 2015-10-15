@@ -37,5 +37,8 @@ Now I have my own blog http://www.hybblog.com/, If you use Weibo, make friends w
 ##More
 For more information, please move to my blog and watch assosiated article. URL:http://www.hybblog.com/hybattributedlabelcategory/
 
+##Follow Me
+![image](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS/blob/master/wx.jpg)
+
 ##LICENSE
 This software confirms MIT LICENSE, you can use it anywhere.
